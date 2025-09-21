@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Adriano-Rovelli/proyecto_temis/issues"
   },
-  "homepage": "https://github.com/Adriano-Rovelli/proyecto_temis#readme"
+  "homepage": "https://github.com/Adriano-Rovelli/proyecto_temis#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
