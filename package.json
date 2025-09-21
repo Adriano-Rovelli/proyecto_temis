@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_temis",
+  "version": "1.0.0",
+  "description": "¡Perfecto! Vamos a hacerlo **paso a paso, desde cero hasta tener tu propio chatbot de WhatsApp personalizado**, con la capacidad de agregarle **lo que tú quieras** (respuestas, menús, pedidos, soporte, etc.). Usaremos la **WhatsApp Cloud API oficial de Meta**, que es la única forma segura, legal y estable hoy en día.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriano-Rovelli/proyecto_temis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriano-Rovelli/proyecto_temis/issues"
+  },
+  "homepage": "https://github.com/Adriano-Rovelli/proyecto_temis#readme"
+}
