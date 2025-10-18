@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MiniBot</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <h1>Preguntale al bot 🤖</h1>
+  <form method="POST">
+    <input type="text" name="question" placeholder="Escribí tu pregunta..." required>
+    <button type="submit">Enviar</button>
+  </form>
+  {% if answer %}
+    <div class="respuesta">
+      <h2>Respuesta:</h2>
+      <p>{{ answer }}</p>
+    </div>
+  {% endif %}
+</body>
+</html>
